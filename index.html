@@ -6,7 +6,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134931253-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-134931253-1');
@@ -147,6 +151,16 @@
                     <img class="img-fluid" src="img/portfolio/sbrifi.png" alt="">
                 </a>
             </div>
+            <div class="col-md-6 col-lg-4">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-7">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/sbrifi.png" alt="">
+                </a>
+            </div>
         </div>
     </div>
 </section>
@@ -223,7 +237,8 @@
                             <label>Adresse Email</label>
                             <input class="form-control" id="email" type="email" placeholder="Adresse Email"
                                    required="required"
-                                   data-validation-required-message="Vous avez oublié votre adresse email ?" name="email">
+                                   data-validation-required-message="Vous avez oublié votre adresse email ?"
+                                   name="email">
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -241,7 +256,8 @@
                             <label>Message</label>
                             <textarea class="form-control" id="message" rows="5" placeholder="Message"
                                       required="required"
-                                      data-validation-required-message="Vous avez oublié votre message ?" name="message"></textarea>
+                                      data-validation-required-message="Vous avez oublié votre message ?"
+                                      name="message"></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
@@ -392,8 +408,7 @@
                     <img class="img-fluid mb-5" src="img/portfolio/ubeat.png" alt="">
                     <p class="mb-5">Dans le cadre de mes études, j'ai eu un projet à réaliser qui consiste à utiliser
                         une API fournie par nos enseignants. C'est un service de streaming audio avec affichage des
-                        artistes, des albums et des morceaux qu'on peut écouter. Pour le moment, il n'y a pas de visuel
-                        du projet. Je dois voir si j'ai le droit de diffuser le projet librement.
+                        artistes, des albums et des morceaux qu'on peut écouter.
                     </p>
                     <p class="mb-5">
                         Technologie : HTML5, CSS, Bootstrap, VueJs
@@ -401,7 +416,8 @@
                     <p class="mb-5">
                         Durée : 1 mois en comptant un travail de 5h par semaine
                     </p>
-                    <a href="#" class="btn btn-primary btn-lg active rounded-pill" role="button" aria-pressed="true">Voir
+                    <a href="http://ubeat.yassirjabbari.cloud/" class="btn btn-primary btn-lg active rounded-pill"
+                       role="button" aria-pressed="true">Voir
                         le projet</a>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
@@ -495,7 +511,47 @@
                     <p class="mb-5">
                         Durée : 2 heures
                     </p>
-                    <a href="http://sbrifi.com/" class="btn btn-primary btn-lg active rounded-pill" role="button" aria-pressed="true">Voir
+                    <a href="http://sbrifi.com/" class="btn btn-primary btn-lg active rounded-pill" role="button"
+                       aria-pressed="true">Voir
+                        le projet</a>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Fermer</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Portfolio Modal 6 -->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-7">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">UGram</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/sbrifi.png" alt="">
+                    <p class="mb-5">C'est un projet étudiant en équipe de 4 qui consiste à reproduire Instagram. J'ai
+                        travaillé sur le front-end au début du projet. Ensuite j'ai développé le back-end tout
+                        seul.</p>
+                    <p class="mb-5">
+                        <a href="http://ugrambackend-env.g6spmeaq43.us-east-1.elasticbeanstalk.com/">Lien de l'API</a>
+                        <a href="https://app.swaggerhub.com/apis/frenchqwerty/UGram/1.0.0">Documentation de
+                            l'API</a>
+                    </p>
+                    <p class="mb-5">
+                        Technologie : JavaScript, NodeJs, ReactJS, Materialize, MobX, NestJs, Webpack, TypeScript,
+                        SuperTest
+                    </p>
+                    <p class="mb-5">
+                        Durée : 5 heures par semaine en 2 mois
+                    </p>
+                    <a href="http://ugram-team-08.s3-website.us-east-2.amazonaws.com/"
+                       class="btn btn-primary btn-lg active rounded-pill" role="button"
+                       aria-pressed="true">Voir
                         le projet</a>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
