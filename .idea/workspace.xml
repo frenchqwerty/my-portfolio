@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faded4f6-d5be-4a74-87ae-6cb8b209b62f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="faded4f6-d5be-4a74-87ae-6cb8b209b62f" name="Default Changelist" comment="divers ajout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/ugram.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/ugram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-667">
-              <caret line="481" column="77" selection-start-line="481" selection-start-column="77" selection-end-line="481" selection-end-column="77" />
+            <state relative-caret-position="-84">
+              <caret line="538" column="29" selection-start-line="538" selection-start-column="29" selection-end-line="538" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -32,6 +40,8 @@
       <find>18BC9C</find>
       <find>.bg</find>
       <find>Close Project</find>
+      <find>href=&quot;ht</find>
+      <find>href=&quot;/</find>
     </findStrings>
     <replaceStrings>
       <replace>3B3B3B</replace>
@@ -44,19 +54,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/freelancer.css" />
         <option value="$PROJECT_DIR$/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/scss/_global.scss" />
+        <option value="$PROJECT_DIR$/Snake/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/freelancer.css" />
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,7 +85,13 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="mail" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,12 +101,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yassir\Documents\Perso\portfolio\Snake" />
+      <recent name="C:\Users\Yassir\Documents\Perso\portfolio\Ubeat" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,18 +139,98 @@
       <updated>1550174506196</updated>
       <workItem from="1550174507508" duration="10315000" />
       <workItem from="1550196258914" duration="268000" />
-      <workItem from="1550196543148" duration="4245000" />
+      <workItem from="1550196543148" duration="4296000" />
+      <workItem from="1550331647319" duration="602000" />
+      <workItem from="1550335059003" duration="1091000" />
+      <workItem from="1550603931262" duration="774000" />
+      <workItem from="1550605402195" duration="8803000" />
+      <workItem from="1550625415030" duration="633000" />
+      <workItem from="1550626092068" duration="105000" />
+      <workItem from="1550628303136" duration="2458000" />
+      <workItem from="1550630876555" duration="439000" />
+      <workItem from="1550703311419" duration="216000" />
+      <workItem from="1550780152166" duration="469000" />
+      <workItem from="1550784213258" duration="1237000" />
+      <workItem from="1552334547879" duration="145000" />
+      <workItem from="1552404577739" duration="298000" />
+      <workItem from="1555445458217" duration="1600000" />
+      <workItem from="1555601544700" duration="529000" />
+      <workItem from="1555889722315" duration="634000" />
     </task>
+    <task id="LOCAL-00001" summary="divers ajout">
+      <created>1550200818319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550200818319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="save">
+      <created>1550610524850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550610524850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout lien">
+      <created>1550616737270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550616737270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Email and add image">
+      <created>1550630903541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550630903541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add cv">
+      <created>1550703352436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550703352436</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add google analytics">
+      <created>1550784523184</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550784523184</updated>
+    </task>
+    <task id="LOCAL-00007" summary="divers fix">
+      <created>1550784847620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550784847620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update ubeat et début ajout ugram">
+      <created>1555447044369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555447044369</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add another image for ugram">
+      <created>1555601991176</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555601991176</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14828000" />
+    <option name="totallyTimeSpent" value="34912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -152,36 +256,27 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="divers ajout" />
+    <MESSAGE value="save" />
+    <MESSAGE value="ajout lien" />
+    <MESSAGE value="Email and add image" />
+    <MESSAGE value="Add cv" />
+    <MESSAGE value="add google analytics" />
+    <MESSAGE value="divers fix" />
+    <MESSAGE value="Update ubeat et début ajout ugram" />
+    <MESSAGE value="add another image for ugram" />
+    <option name="LAST_COMMIT_MESSAGE" value="add another image for ugram" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="367" column="23" selection-start-line="367" selection-start-column="23" selection-end-line="367" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -215,17 +310,57 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio/cabin.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+    <entry file="file://$PROJECT_DIR$/Snake/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/Ubeat/.postcssrc.js" />
+    <entry file="file://$PROJECT_DIR$/Snake/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        <state relative-caret-position="127">
+          <caret line="367" column="23" selection-start-line="367" selection-start-column="23" selection-end-line="367" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/game.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/ubeat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-667">
-          <caret line="481" column="77" selection-start-line="481" selection-start-column="77" selection-end-line="481" selection-end-column="77" />
+        <state relative-caret-position="-84">
+          <caret line="538" column="29" selection-start-line="538" selection-start-column="29" selection-end-line="538" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
